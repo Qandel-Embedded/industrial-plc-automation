@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+*.log
+*.csv
+*.tflite
+.DS_Store
+
+plc_data.csv
